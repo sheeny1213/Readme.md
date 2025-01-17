@@ -8,7 +8,6 @@
 Welcome to my GitHub profile! I'm passionate about Frontend web development, and I'm constantly exploring new technologies to enhance my skills.
 
 ## About Me
-
 - **Interests**: Web Development 
 - **Technologies**: C++, ReactJS, NodeJS, MongoDB
 - **Collaboration**: Always looking to collaborate on open source projects!
